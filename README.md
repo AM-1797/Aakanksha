@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AM-1797
+- 👋 Hi, I’m @Aakanksha
 - 👀 I’m interested in  learn coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
